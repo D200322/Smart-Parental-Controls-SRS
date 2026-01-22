@@ -1,4 +1,4 @@
-# Smart-Parental-Controls-SRS
+# Smart-Parental-Controls-SRS - (July 2025)
 Purpose
 This document outlines the software requirements for a Smart Parental Control System designed to help parents monitor, manage, and restrict their children's digital device usage. The system integrates content filtering, time management, activity monitoring, and remote control features across multiple platforms.
 
